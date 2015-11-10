@@ -1,0 +1,15 @@
+{
+	"name": "aero-glyphicons",
+	"version": "0.1.0",
+	"description": "Glyphicons bundle for Aero.",
+	"repository": "aerojs/aero-glyphicons",
+	"keywords": [
+		"aero",
+		"glyphicons"
+	],
+	"author": {
+		"name": "Eduard Urbach",
+		"email": "e.urbach@gmail.com",
+		"url": "http://blitzprog.org"
+	}
+}
